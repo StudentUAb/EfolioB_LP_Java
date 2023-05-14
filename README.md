@@ -14,7 +14,7 @@ Sistema de gestão bancária, para uso interno dos gestores de conta. Utilizamos
 📌 Programa sobre # Sistema Bancario
 Linguagens de Programação Java e Prolog - EfolioB - Sistema Bancario
 ------------------
-<img src="tela.png" alt="page-home">
+<img width="400" src="tela.png" alt="page-home">
 ## Para fazer a interligação entre Prolog e Java no macOS e Win, você pode usar a biblioteca JPL (Java Prolog Interface). Siga as etapas abaixo para configurar a interligação no seu ambiente:
 
 1. Certifique-se de ter o SWI-Prolog instalado no seu sistema macOS. Você pode baixar e instalar a versão mais recente do SWI-Prolog no site oficial: https://www.swi-prolog.org/Download.html
