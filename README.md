@@ -38,7 +38,7 @@ O projeto foi feito em Java e Prolog.
 The project was done with Java and Prolog.
 
 
-<img src="print.png" alt="page-home">
+<img width="200" src="print.png" alt="page-home">
 
 
 🔧 Tecnologias utilizadas:
